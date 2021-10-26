@@ -14,12 +14,12 @@
 
  /**Costum CSS**/
  .imground{
-    border-radius: 50%;
-    width: 15rem;
+    border-radius: 27px;
+    width: 10rem;
     object-fit: scale-down;
  }
  .profil{
-    font: 1.6rem/1.231 arial helvetica clean sans-serif i !important;
+    font: 1.3rem/1.231 arial helvetica clean sans-serif i !important;
     
  }
  .smalltitle{
